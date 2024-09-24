@@ -1,3 +1,7 @@
+## にぼし
+にぼしです。
+大学で、画像処理やインタラクションについて勉強しています。
+
 ## Score
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nibosi0501&show=reviews&rank_icon=github&show_icons=true&ring_color=6666f3&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
