@@ -13,8 +13,23 @@
 ## Skills
 [![こどもだまし](https://skillicons.dev/icons?i=unity,python,java,c,cpp,cs,html,css,javascript,opencv,github)](https://skillicons.dev)
 
+### Image Processing
+- Ultralytics YOLOv8
+- MediaPipe
+
 
 ## Topic
-- [Contents Creation Circle](https://github.com/CC-Circle)
-  - [CCCホームページ](https://ait-ccc.netlify.app/)
-- [逆行タイムス](https://cc-circle.github.io/Janaihou/)
+<a href="https://github.com/CC-Circle/Janaihou">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Janaihou&theme=buefy" />
+</a>
+<a href="https://github.com/CC-Circle/Yoga_Earth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga_Earth&theme=buefy" />
+</a>
+<a href="https://github.com/CC-Circle/Yoga-Fighter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga-Fighter&theme=buefy" />
+</a>
+
+## Organizations
+<a href="https://github.com/CC-Circle">
+  <img align="center" src="https://avatars.githubusercontent.com/u/159421768?s=400&u=da4c776e7b4ff660b05109005fbdffcfb6735806&v=4" alt="GitHub Logo" width="100" />
+</a>
