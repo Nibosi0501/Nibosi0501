@@ -1,6 +1,6 @@
-## にぼし
-にぼしです。
-大学で、画像処理やインタラクションについて勉強しています。
+## にぼし Nibosi
+にぼしです。大学で画像処理やインタラクションについて勉強しています。<br>
+My name is Niboshi. I am studying image processing and interaction at university.
 
 ## Score
 
@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga_Earth&theme=buefy" />
 </a><br><br>
 
-- Image processing system for games exhibited at Tokyo Game Show 2024
+- Image processing system to detect yoga pose “tree pose
 <a href="https://github.com/CC-Circle/Yoga-Fighter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga-Fighter&theme=buefy" />
 </a>
