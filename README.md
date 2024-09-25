@@ -15,7 +15,7 @@ My name is Niboshi. I am studying image processing and interaction at university
 </div>
 
 ## Skills
-[![こどもだまし](https://skillicons.dev/icons?i=unity,python,java,c,cpp,cs,html,css,javascript,opencv,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=unity,python,java,c,cpp,cs,html,css,javascript,opencv,github)](https://skillicons.dev)
 
 ### Image Processing
 - Ultralytics YOLOv8
@@ -23,7 +23,8 @@ My name is Niboshi. I am studying image processing and interaction at university
 
 
 ## Topic
-- Games Exhibited at Tokyo Game Show 2024
+### Games Exhibited at Tokyo Game Show 2024
+- Yoga Earth
 <img align="center" src="https://github.com/user-attachments/assets/5b86a656-8141-42af-9524-11b9acb8e710" style="height: 150px; width: auto;" />
 <a href="https://github.com/CC-Circle/Yoga_Earth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga_Earth&theme=buefy" />
@@ -33,9 +34,13 @@ My name is Niboshi. I am studying image processing and interaction at university
 <a href="https://github.com/CC-Circle/Yoga-Fighter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga-Fighter&theme=buefy" />
 </a>
-<br><br><br>
 
-- 2024年新入生歓迎会用Unityゲーム「逆行タイムス」
+### Raise both hands detection using YOLOv8 pose model
+<a href="https://github.com/Nibosi0501/raising-both-hands-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nibosi0501&repo=raising-both-hands-detection&theme=buefy" />
+</a>
+
+### 2024年新入生歓迎会用Unityゲーム「逆行タイムス」
 <img align="center" src="https://github.com/user-attachments/assets/19000bad-17e6-4d4c-858d-b8c3d2e7653d" style="height: 150px; width: auto;" />
 <a href="https://github.com/CC-Circle/Janaihou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Janaihou&theme=buefy" />
