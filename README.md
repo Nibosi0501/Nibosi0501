@@ -2,20 +2,8 @@
 にぼしです。大学で画像処理やインタラクションについて勉強しています。<br>
 My name is Niboshi. I am studying image processing and interaction at university.
 
-## Score
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nibosi0501&show=reviews&rank_icon=github&show_icons=true&ring_color=6666f3&&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nibosi0501&layout=donut&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-## Trophy
-<div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nibosi0501">
-  </a>
-</div>
-
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=unity,python,java,c,cpp,cs,html,css,javascript,opencv,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=unity,python,cpp,opencv,github)](https://skillicons.dev)
 
 ### Image Processing
 - Ultralytics YOLOv8
